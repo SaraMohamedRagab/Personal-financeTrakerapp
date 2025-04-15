@@ -12,10 +12,6 @@ The **Personal Finance Tracker** is a simple web application built using **HTML*
 - **Simple user interface**: Clean and easy-to-use layout built with HTML and CSS.
 - **Interactive functionality**: JavaScript powers the app’s logic, allowing for seamless addition and subtraction of transactions.
 
-## Screenshots
-
-![Personal Finance Tracker Screenshot](personalTracker.jpg)
-
 ## Installation
 
 To run the app locally, follow these steps:
